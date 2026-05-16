@@ -7,14 +7,14 @@ You can also include images in this folder and reference them in the markdown. E
 512 kb in size, and the combined size of all images must be less than 1 MB.
 -->
 
-## How it works
+## How it works <3
 
 Use the DIP switch to control the 7-segment display
 
-## How to test
+## How to test <3
 
 Use the DIP switch to control the 7-segment display
 
-## External hardware
+## External hardware <3
 
 7-segment Display
